@@ -60,5 +60,5 @@ def initialize_key(ACCESS_TOKEN):
     os.system(command)
 
 
-token = '"MC2uDxjFJCGDJz6RLx3n"'
+token = '"d7jKtipCYLguxpAwMa7W"'
 initialize_key(token)
